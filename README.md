@@ -1,9 +1,9 @@
-# FlatCorporate
-Web-site template
-Authors: Evgenia Omelchenko and Dimitry Lutsenko
-6 pages
-static
-pixel perfect
-converted from PSD
-PSD included
+# FlatCorporate <br/>
+Web-site template <br/>
+Authors: Evgenia Omelchenko and Dimitry Lutsenko <br/>
+6 pages <br/>
+static <br/>
+pixel perfect <br/>
+converted from PSD <br/>
+PSD included <br/>
 Designed by: Yane Naumoski
