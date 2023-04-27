@@ -110,7 +110,7 @@ nav a {
     -webkit-border-radius: 4px;
     -o-border-radius: 4px;
 }
-# :hover{
+#btn-track-subscribe:hover{
     background: #16a085;
     color: white;
 }
